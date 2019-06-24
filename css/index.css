@@ -25,7 +25,7 @@
 }
 
 .menu-trigger span:nth-of-type(2) {
-  top: 6vw;
+  top: 5vw;
 }
 
 .menu-trigger span:nth-of-type(3) {
@@ -33,7 +33,7 @@
 }
 
 .menu-trigger:hover span:nth-of-type(1) {
-  transform: translateY(4vw) rotate(-315deg) scale(.6);
+  transform: translateY(10vw) rotate(-315deg) scale(.6);
 }
 
 .menu-trigger:hover span:nth-of-type(2) {
@@ -41,7 +41,7 @@
 }
 
 .menu-trigger:hover span:nth-of-type(3) {
-  transform: translateY(-4vw) rotate(315deg) scale(.6);
+  transform: translateY(-10vw) rotate(315deg) scale(.6);
 }
 
 
