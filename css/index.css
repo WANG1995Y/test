@@ -61,6 +61,16 @@ li {
   padding: 3vw 0;
 }
 
+ul {
+	list-style: none;
+}
 
+.navigation {
+  width: 100%;
+  background: #34495e;
+  display: block;
+  margin: auto;
+  font-family: 'Lato', sans-serif;
+}
 
 
