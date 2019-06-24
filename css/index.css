@@ -44,6 +44,23 @@
   transform: translateY(-6.3vw) rotate(315deg) scale(.8);
 }
 
+/*********************************************/
+
+a {
+  font-size: 10vw; 
+  color: #fff; 
+  text-decoration: none; 
+}
+
+li {
+  width: 100%; 
+  height: auto; 
+  text-align: center; 
+  background: #bdc3c7; 
+  border: 0.1vw solid #fff;
+  padding: 3vw 0;
+}
+
 
 
 
